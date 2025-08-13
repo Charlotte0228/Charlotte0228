@@ -1,8 +1,5 @@
 # 👋 Hi there, I'm Shuqi
 
-<p align="center">
-  <img src="https://github.com/yourusername/multi-region-tethered-planning/raw/main/results/hamiltonian_paths_10.png" width="400" />
-</p>
 
 ## 🔬 Research Interests
 
