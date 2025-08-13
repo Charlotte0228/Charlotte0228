@@ -23,7 +23,7 @@ Participated in the Tianbot competition using the Tianracer platform for autonom
 
 ## 📝 Publications
 
- - One Recieved， One under review 
+ - One Accepted， One under review 
 
 ## 🛠️ Skills
 
