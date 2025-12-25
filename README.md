@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shuqi
+# 👋 Hi there, It's Shuqi
 
 
 ## 🔬 Research Interests
