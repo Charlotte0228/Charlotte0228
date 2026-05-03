@@ -4,7 +4,7 @@
 ## 🔬 Research Interests
 - **Neural Networks & Deep Learning**: Application of deep learning techniques for perception, decision-making, and control in autonomous systems, including CNN/RNN architectures for sensor data processing and reinforcement learning for robot policy optimization
 - **DL apply in design probelm**: Application in inverse hardware design and optimization
-- - **LiDAR Technology**: Focusing on point cloud processing algorithms and 3D environment reconstruction
+- **LiDAR Technology**: Focusing on point cloud processing algorithms and 3D environment reconstruction
 - **UAV Systems**: Autonomous navigation, trajectory planning, and multi-drone coordination
 - **Multi-Region Coverage Algorithms**: Hamiltonian path-based coverage planning for complex environment exploration tasks
 - **Computer Vision**: Object detection and scene understanding combining LiDAR and visual sensors
